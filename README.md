@@ -30,7 +30,7 @@ This project part of my Data Science Nanodegree, and the objective is to try to 
 2. Starbucks_Capstone_notebook.* : contains all the work.
 
 # Results
-The main findings of the code can be found [here](https://medium.com/@h.secure1/analyzing-starbucks-offers-using-python-ed89255fbc88)
+
 
 # Licensing, Author, Acknowledgements
 This project was created by the following and must be given credit for their collaboration:
