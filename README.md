@@ -40,17 +40,11 @@ This repo contains 4 files.There is a notebook available here to showcase work r
 
 As a brief summary of my findings:
 #### i. Question 1 findings:
-For Question 1, the feature importance given by all 3 models were that the tenure of a member is the biggest predictor of the effectiveness of an offer.
 
-For all three models, the top 3 variables were the same - membership tenure, income and age. However, income and age switched orders depending on offer type. 
-
-For BOGO and discount offers, the distribution of feature importances were relatively equal. However, for informational offers, the distribution is slightly more balanced, with income the second most important variable.
 
 #### ii. Question 2 findings:
 
-My decision to use 3 separate models to predict the effectiveness of each offer type ended up with good accuracy for the BOGO and discount models (82.87% for BOGO and 87.38% for discount), while slightly less accurate performance for informational offers (75.23%). However, I would regard 75% as acceptable in a business setting, as for informational offers, there is no cost involved to inform users of a product.
 
-Meanwhile, for BOGO and discount models, I am quite happy with the 80% and above accuracy, as in a business setting that would be acceptable to show offers to people, even if the model misclassifies a few, the overall revenue increase might justify the few mistakes.
 
 
 The main observations of the code are published.
