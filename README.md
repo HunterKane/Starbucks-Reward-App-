@@ -25,8 +25,17 @@ Not all users receive the same offer, and that is the challenge to solve with th
 ### Project Motivation <a name="project-motivation"></a>
 In this project, I use the data to answer 2 business questions:
 
-  - 1. What are the main features influencing the effectiveness of an offer on the Starbucks app?
-  - 2. Could the data provided, namely offer characteristics and user demographics, predict whether a user would take up an offer?
+ __Part 1: Main Focus__
+Combine transaction, demographic and offer data to determine which demographic groups respond best to which offer type. How does the following influence the use of the Starbucks offer rewards:
+
+- Age
+- Income
+- Gender
+
+After analyzing the demographics we will have a better understanding of what offer types are popular. 
+
+__Part 2: Main Focus__
+Build a machine learning model to predict the accuracy of offers completed from the EDA of part 1.
 
 To answer the above 2 questions, I created 3 models for the data on the 3 offer types provided. The three offers are: Buy One Get One Free (BOGO), Discount (discount with purchase), and Informational (provides information about products).
 
@@ -39,12 +48,6 @@ This repo contains 4 files.There is a notebook available here to showcase work r
 ## Results<a name="results"></a>
 
 As a brief summary of my findings:
-#### i. Question 1 findings:
-
-
-#### ii. Question 2 findings:
-
-
 
 
 The main observations of the code are published.
