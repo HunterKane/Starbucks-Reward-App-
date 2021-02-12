@@ -21,7 +21,7 @@ The motivation behind this project was exploring the Starbuck’s Dataset. I exp
 * What product(s) have the highest rank?
 * What types of offers to genders prefer? (What are the percentages of gender in the data?)
 * What is the age range that completes the most offers?
-* What is the income range that completes the most offers?
+* What is the income ranges of customers? (age and gender)
 
 <a name="prerequisite"/></a>
 ## Prerequisites
